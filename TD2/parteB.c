@@ -3,7 +3,7 @@
     @Project 
     @Author Oubakki ayoub
     @Created 20250103
-    @Program Description, Program to compute the area of a cirlce
+    @Program Description,  Pointeurs 
 */
 #include<stdio.h>
 #include <stdlib.h>

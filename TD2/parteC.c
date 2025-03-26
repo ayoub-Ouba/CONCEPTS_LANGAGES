@@ -3,7 +3,7 @@
     @Project Geometrie en L3 
     @Author Marie-Laure Nivet
     @Created 20221010
-    @Program Description, Program to compute the area of a cirlce
+    @Program Description,  Récursivité
 */
 
 //Link section
@@ -33,8 +33,8 @@ int recursivite_terminal2(int n,int puis,int accum){
 //Main function
 int main(int argc, char const *argv[])
 {
-    printf("%d \n",recursivite_clasique(5));
-    printf("%d \n",recursivite_terminal(5,1));
+    printf("%d \n",recursivite_clasique(3));
+    printf("%d \n",recursivite_terminal(3,1));
     printf("%d \n",recursivite_clasique2(2,3));
     printf("%d \n",recursivite_terminal2(2,3,1));
  
